@@ -1,5 +1,3 @@
-Hi, I'm Andy 👋
-
 [andys8.de](https://andys8.de)
 
 ---
